@@ -12,7 +12,7 @@ Web development today is based on HTML5, CSS3, and JavaScript. This presentation
 
 The synergy of these technologies forms the backbone of the web.
 
-[**View PowerPoint Slides As PDF**](HTML5-CSS3-And-JavaScript-Unleashing-Their-Power.pdf) | [**Watch Video**](link-to-video)
+[**View PowerPoint Slides As PDF**](HTML5-CSS3-And-JavaScript-Unleashing-Their-Power.pdf) | [**Watch Video**](link-to-video) |  [**Code Examples from the Slides**](https://github.com/ziggyrafiq/Videos/tree/main/HTML5-CSS3-JS-Power-Unleashed/Code%20Exmples)
 
 ---
 
