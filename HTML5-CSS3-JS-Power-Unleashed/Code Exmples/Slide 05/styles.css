@@ -1,5 +1,8 @@
 /* Example of using Flexbox for a simple layout */
+body {
+    background-color: aqua;
 
+}
 /* Styles for a container using Flexbox */
 .flex-container {
     display: flex; /* Use Flexbox */
