@@ -1,4 +1,4 @@
-# ZVideos
+# Videos
 
 Welcome to Ziggy Rafiq's collection of insightful software and web development videos along with software testing, DevOps and management. Here, you'll find a wealth of knowledge and practical insights into the world of HTML5, CSS3, JavaScript, and more. Ziggy Rafiq, a seasoned web developer, shares his expertise through engaging video content available on various platforms.
 
