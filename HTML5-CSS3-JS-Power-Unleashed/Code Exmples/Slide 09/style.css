@@ -2,11 +2,11 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: aquamarine;
+    background-color:lightgoldenrodyellow
 }
 
 img{
-    width: 5% !important;
+    width: 50%;
     border: 5px red solid;
 }
 /* Default styles for larger screens */

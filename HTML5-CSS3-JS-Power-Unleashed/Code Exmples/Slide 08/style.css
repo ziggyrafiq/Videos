@@ -22,4 +22,7 @@ main {
     main {
         padding: 0 1em;
     }
+    img{
+        width: 90%;
+    }
 }
