@@ -2,7 +2,7 @@
 
 Our tutorial on building an interactive and responsive web form will walk you through creating a modern and engaging form using HTML5, CSS3, and JavaScript.
 
-[**View PowerPoint Slides As PDF**](How-to-Build-an-Interactive-and-Responsive-Form-By-Ziggy-Rafiq.pdf) | [**Watch Video**](https://www.youtube.com/watch?v=MOPB1Rqv_fc&t=34s) |  [**Code Examples from the Slides**](https://github.com/ziggyrafiq/Videos/tree/main/How-to-Build-An-Interactive-And-Responsive-Form/Code%20Exmples)
+[**View PowerPoint Slides As PDF**](How-to-Build-an-Interactive-and-Responsive-Form-By-Ziggy-Rafiq.pdf) | [**Watch Video**](https://www.youtube.com/watch?v=MOPB1Rqv_fc&t=34s) |  [**Code Examples from the Slides**](https://github.com/ziggyrafiq/Videos/tree/main/How-to-Build-An-Interactive-And-Responsive-Form/Code%20Examples)
 
 ## Table of Contents
 1. [HTML5 Basics](#html5-basics)
